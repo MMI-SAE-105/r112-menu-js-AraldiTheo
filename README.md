@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Araldi
+- prénom : Théo
+- URL Netlify : https://app.netlify.com/sites/tangerine-genie-7e6e8f/overview
 
 # Travail
 
