@@ -9,5 +9,5 @@ console.log("isOpen : ", isOpen, "isClosed : ", isClosed);
 
     nav.ariaHidden = isOpen;
     toggle.ariaExpanded = isClosed;
-    body.classList.toggle('noscroll');
+    body.classList.toggle('noscroll', isClosed);
 })
